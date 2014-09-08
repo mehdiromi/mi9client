@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a {
+  color: #00b7ff;
+}
+.input {
+  background-color: #ffebcd;
+  border: solid 1px #000;
+}
+.output {
+  background-color: ButtonFace;
+  border: solid 1px #000;
+}
+.error {
+  background-color: #ff0;
+  border: solid 1px #000;
+}
