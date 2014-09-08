@@ -1,7 +1,7 @@
-﻿# Welcome to AwesomeNode
+﻿# Welcome to mi9client
   
 
-#### AwesomeNode is an example client application of the  actual Service.
+#### mi9client is an example of client application for mi9service
 
 This is an example of consuming the exercise web service developed by Mehdi and hosted at [http://awesomeservice.apphb.com](http://awesomeservice.apphb.com).
 
@@ -82,6 +82,25 @@ function CallService(sampleInput) {
 }
 
 ```
+
+
+### Installation
+
+1. If you are hosting on Heroku, simply clone the repository and follow the instuction below in the command line or bash:
+    * heroku create
+    * git init
+    * git add .
+    * git commit -a
+    * git heroku master
+    and that' it!
+
+2. If running locally, 
+    * Download and install Node.js from [http://nodejs.org/download/](http://nodejs.org/download/)
+    * make sure you have express, stylus, jade install  or use nmp install.
+    * run node app.js
+
+
+Thank you for reading this document.
 
 
 This application is written by Mehdi Romi (mehdi.romi@gmail.com) and uses free resources for development and hosting.
