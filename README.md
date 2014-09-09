@@ -149,7 +149,7 @@ block content
         });
 ```
 
-applciaiton layout looks like the following:
+application layout looks like the following:
 ```
 doctype html5
 html
