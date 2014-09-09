@@ -14,7 +14,7 @@ The service is originally written in C# with ASP.Net Web Api 5.1.0 and the sourc
 How does this client app work?
 
 * The initial input data is being read with a GET ajax call from a Node.js api from this service on [http://mi9client.heroku.com/samplerequest](http://mi9client.heroku.com/samplerequest) and updates input DOM element.
-* The input data then is POSTed to the service on [http://awesomeservice.apphb.com](http://awesomenode.apphb.com) via ajax and updates the output DOM element.
+* The input data then is POSTed to the service on [http://awesomeservice.apphb.com](http://awesomeservice.apphb.com) via ajax and updates the output DOM element.
 * If any error occures, the error DOM element gets updates.
 
 
