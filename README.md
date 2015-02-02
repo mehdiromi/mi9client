@@ -1,7 +1,7 @@
 ﻿# Welcome to mi9client
   
 
-#### mi9client is an example of client application for mi9service
+#### mi9client is an example of client application for mi9service.
 
 This is an example of consuming the exercise web service developed by Mehdi and hosted at [http://awesomeservice.apphb.com](http://awesomeservice.apphb.com).
 
